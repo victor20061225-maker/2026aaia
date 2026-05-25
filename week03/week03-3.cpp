@@ -1,4 +1,3 @@
-
 // week03-3.cpp SOIT106_Base_011
 # include <stdio.h>
 int main()
